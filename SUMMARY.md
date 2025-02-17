@@ -5,7 +5,8 @@
 ## Darimana harus memulai?
 
 * [Tujuan dibuat dan bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
-* [Memahami Pinyin](darimana-harus-memulai/pinyin.md)
+* [Memahami pinyin](darimana-harus-memulai/pinyin.md)
+* [Karakter radikal (Segera hadir)](darimana-harus-memulai/karakter-radikal-segera-hadir.md)
 
 ## Konten
 

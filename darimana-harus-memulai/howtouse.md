@@ -1,5 +1,5 @@
 ---
-icon: face-thinking
+icon: angle-right
 ---
 
 # Tujuan dibuat dan bagaimana cara menggunakan situs ini?

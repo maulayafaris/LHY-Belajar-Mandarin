@@ -26,7 +26,7 @@ layout:
 
 Halo, selamat datang di LHY Belajar Mandarin (**LI BEM**)
 
-Tujuan dari adanya LHY Belajar Mandarin adalah untuk menyediakan sebuah catatan online bagi siapapun yang memahami Bahasa Indonesia dan Melayu yang memiliki keinginan untuk mempelajari Mandarin.&#x20;
+> Menyediakan sebuah catatan online bagi siapapun yang memiliki keinginan untuk mempelajari bahasa Mandarin
 
 ### Darimana harus memulai?
 

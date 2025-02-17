@@ -1,8 +1,8 @@
 ---
-icon: square-p
+icon: angle-right
 ---
 
-# Memahami Pinyin
+# Memahami pinyin
 
 ### Pinyin itu apasih?
 
@@ -61,7 +61,7 @@ Terdapat 23 konsonan dalam bahasa mandarin, yaitu:
 
 Ketika digunakan dalam sebuah kata akan ada variasi intonasi yang membedakan.
 
-#### Akhiran
+#### Akhiran&#x20;
 
 |   |   |   |
 | - | - | - |
