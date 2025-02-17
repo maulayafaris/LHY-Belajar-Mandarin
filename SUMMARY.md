@@ -6,7 +6,9 @@
 
 * [Tujuan dibuat dan bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
 * [Memahami pinyin](darimana-harus-memulai/pinyin.md)
-* [Karakter radikal (Segera hadir)](darimana-harus-memulai/karakter-radikal-segera-hadir.md)
+* [Karakter radikal (segera hadir)](darimana-harus-memulai/karakter-radikal-segera-hadir.md)
+* [Tata bahasa mandarin (segera hadir)](darimana-harus-memulai/tata-bahasa-mandarin-segera-hadir.md)
+* [Lirik lagu mandarin (segera hadir)](darimana-harus-memulai/lirik-lagu-mandarin-segera-hadir.md)
 
 ## Konten
 
