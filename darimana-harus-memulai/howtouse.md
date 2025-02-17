@@ -1,5 +1,5 @@
 ---
-icon: bullseye-arrow
+icon: face-thinking
 ---
 
 # Bagaimana cara menggunakan situs ini?

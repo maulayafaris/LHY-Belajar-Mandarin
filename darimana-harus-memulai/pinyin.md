@@ -1,5 +1,5 @@
 ---
-icon: globe-pointer
+icon: square-p
 ---
 
 # Memahami Pinyin

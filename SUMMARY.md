@@ -6,6 +6,7 @@
 
 * [Bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
 * [Memahami Pinyin](darimana-harus-memulai/pinyin.md)
+* [Daftar pustaka](darimana-harus-memulai/daftar-pustaka.md)
 
 ## Basics
 
