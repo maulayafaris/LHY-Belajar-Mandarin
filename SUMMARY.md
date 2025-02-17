@@ -4,7 +4,7 @@
 
 ## Darimana harus memulai?
 
-* [Bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
+* [Tujuan dibuat dan bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
 * [Memahami Pinyin](darimana-harus-memulai/pinyin.md)
 
 ## Konten
