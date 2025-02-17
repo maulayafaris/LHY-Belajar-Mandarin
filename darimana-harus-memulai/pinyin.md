@@ -20,12 +20,12 @@ icon: square-p
 
 ### Pinyin umumnya memiliki 3 bagian
 
-Pinyin umunya terdiri dari 3 bagian yaitu awalan, akhiran, dan nada.
+Yaitu **awalan**, **akhiran**, dan **nada**.
 
-contoh: mǎ.
+contoh: **mǎ**.
 
 mari kita bedah tiap bagian:
 
-1. "m" merupakan bagian awalan
-2. "a" merupakan bagian akhiran
-3. "v" merupakan bagian nada
+1. "**m**" merupakan bagian awalan
+2. "**a**" merupakan bagian akhiran
+3. "**v**" merupakan bagian nada
