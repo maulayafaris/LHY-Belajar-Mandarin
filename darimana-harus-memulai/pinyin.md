@@ -14,9 +14,9 @@ icon: square-p
 
 **Berikut contoh simple perbedaannya**:
 
-"mǎ" ini adalah bentuk Pinyin.
+"**mǎ**" ini adalah bentuk Pinyin.
 
-"马“ ini adalah bentuk karakter Mandarin.
+"**马**“ ini adalah bentuk karakter Mandarin.
 
 ### Pinyin umumnya memiliki 3 bagian
 
