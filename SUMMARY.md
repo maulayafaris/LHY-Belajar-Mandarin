@@ -6,10 +6,10 @@
 
 * [Bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
 * [Memahami Pinyin](darimana-harus-memulai/pinyin.md)
-* [Daftar pustaka](darimana-harus-memulai/daftar-pustaka.md)
 
 ## Basics
 
+* [Daftar pustaka](basics/daftar-pustaka.md)
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
