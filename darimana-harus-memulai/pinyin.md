@@ -28,4 +28,4 @@ mari kita bedah tiap bagian:
 
 1. Huruf "**m**" merupakan bagian awalan
 2. Huruf "**a**" merupakan bagian akhiran
-3. Tone "**v**" merupakan bagian nada
+3. Tanda "**v**" merupakan bagian nada
