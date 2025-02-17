@@ -7,12 +7,15 @@
 * [Bagaimana cara menggunakan situs ini?](darimana-harus-memulai/howtouse.md)
 * [Memahami Pinyin](darimana-harus-memulai/pinyin.md)
 
-## Basics
+## Konten
 
-* [Daftar pustaka](basics/daftar-pustaka.md)
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Daftar pustaka](konten/daftar-pustaka.md)
+
+## Tutorial Gitbook
+
+* [Editor](tutorial-gitbook/editor.md)
+* [Markdown](tutorial-gitbook/markdown.md)
+* [Images & media](tutorial-gitbook/images-and-media.md)
+* [Interactive blocks](tutorial-gitbook/interactive-blocks.md)
+* [OpenAPI](tutorial-gitbook/openapi.md)
+* [Integrations](tutorial-gitbook/integrations.md)

@@ -1,5 +1,6 @@
 ---
 icon: pen-to-square
+hidden: true
 ---
 
 # Editor
