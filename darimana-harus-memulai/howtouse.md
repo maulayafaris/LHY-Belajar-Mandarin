@@ -4,7 +4,7 @@ icon: angle-right
 
 # Tujuan dibuat dan bagaimana cara menggunakan situs ini?
 
-Website ini bisa kamu akses melalui [https://lahiyayuka.gitbook.io/lhy-learn-mandarin](https://lahiyayuka.gitbook.io/lhy-learn-mandarin) atau [bit.ly/LHYmandarin](https://bit.ly/LHYmandarin)
+Website ini bisa kamu akses melalui [https://lahiyayuka.gitbook.io/lhymandarin](../) atau [bit.ly/LHYmandarin](https://bit.ly/LHYmandarin)
 
 ### Tujuan dibuatnya situs ini
 
