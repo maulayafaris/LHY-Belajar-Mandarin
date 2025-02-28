@@ -12,7 +12,15 @@ Kami hadir sebagai bagian dari pendukung pembelajaran bahasa Mandarin Anda, buka
 
 ### Bagaimana cara menggunakan situs ini? (_<mark style="color:red;">Segera Tersedia</mark>_)
 
+### Dimana saya bisa menghubungi jika ingin memberi masukan/saran/kritik/pengkoreksian atau hal lain terkait situs ini?
 
+Kamu bisa menghubungi kami melalui alamat email berikut:
+
+[lhybelajar@protonmail.com](mailto:lhybelajar@protonmail.com)
+
+### Apa rencana kedepannya LHY?
+
+* Kami berencana membuat catatan pembelajaran online bahasa Minangkabau jika dirasa point-point utama pembelajaran bahasa Mandarin sudah selesai.
 
 
 
